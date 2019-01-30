@@ -11,7 +11,10 @@ import org.eclipse.swt.widgets.Text;
 import org.eclipse.swt.layout.GridData;
 import org.eclipse.swt.widgets.Button;
 
-
+/**
+*
+*ogmmgomgmg
+**/
 public class HelloApplication {
 	private static Text text;
 	private static Text text_1;
