@@ -3,12 +3,7 @@ package com.yangcn.HelloGit;
 /**
  * Hello world!
  * yangcn
- * 
- * d
- * d
- * d
- * d
- * d
+ *
  */
 public class App 
 {
